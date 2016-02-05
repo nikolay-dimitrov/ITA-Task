@@ -1,5 +1,3 @@
-Ivan
-Dimitur
 Nikolay – Simeon
 Nikolay – Anton
 Anton – Dragan
@@ -8,3 +6,4 @@ Dragan – Blagoi
 Petur – Dimitur
 Blagoi – Ivan
 stop
+
