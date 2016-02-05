@@ -1,0 +1,10 @@
+Ivan
+Dimitur
+Nikolay – Simeon
+Nikolay – Anton
+Anton – Dragan
+Dragan – Petur
+Dragan – Blagoi
+Petur – Dimitur
+Blagoi – Ivan
+stop

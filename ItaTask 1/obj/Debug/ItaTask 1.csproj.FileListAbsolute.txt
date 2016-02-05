@@ -1,0 +1,18 @@
+c:\users\nikolay\documents\visual studio 2015\Projects\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.exe.config
+c:\users\nikolay\documents\visual studio 2015\Projects\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.exe
+c:\users\nikolay\documents\visual studio 2015\Projects\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.pdb
+c:\users\nikolay\documents\visual studio 2015\Projects\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2015\Projects\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.exe
+c:\users\nikolay\documents\visual studio 2015\Projects\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.pdb
+C:\Users\Dobry\Desktop\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.exe.config
+C:\Users\Dobry\Desktop\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.exe
+C:\Users\Dobry\Desktop\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.pdb
+C:\Users\Dobry\Desktop\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.exe
+C:\Users\Dobry\Desktop\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.pdb
+C:\Users\Dobry\Desktop\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.exe.config
+C:\Users\Nikolay\Desktop\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.exe
+C:\Users\Nikolay\Desktop\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.pdb
+C:\Users\Nikolay\Desktop\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.exe
+C:\Users\Nikolay\Desktop\ItaTask 1\ItaTask 1\bin\Debug\ItaTask 1.pdb
+C:\Users\Nikolay\Desktop\ItaTask 1\ItaTask 1\obj\Debug\ItaTask 1.csprojResolveAssemblyReference.cache
